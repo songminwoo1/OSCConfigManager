@@ -1,11 +1,11 @@
-<info>
+[info]
   You can get a free copy of this software (windows installer package) in my booth page!
   https://mallang.booth.pm/items/3687929
   user guide is also included in this website.
   If you have any problems using this software, please feel free to contact me with discord.
   My discord ID is mallang#7177
 
-<license>
+[license]
 Copyright (c) 2022 songminwoo1(Mallang)
   
   CC BY-NC-SA
